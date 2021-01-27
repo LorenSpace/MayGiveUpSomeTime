@@ -1,2 +1,2 @@
-#bbs based on laravel
+# 一个丑陋的留言板
 
