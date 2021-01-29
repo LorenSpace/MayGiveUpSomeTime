@@ -87,5 +87,6 @@ public function edit(Request $request,$id)
 
 css和js方面并没有做过多修改
 
-###题外话
+### 题外话
+
 为了解决GitHub连接不稳定的问题，在尝试了各种办法的时候，最终还是在host添加了IP（x
